@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="iPhone套餐类型"
+        android:layout_margin="10dp"/>
+
+    <com.zfw.flowlayout.FlowLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="@style/text"
+            android:text="iPhone6 64G 黑色" />
+
+        <TextView
+            style="@style/text"
+            android:text="iPhone6 128G 银色" />
+
+        <TextView
+            style="@style/text"
+            android:text="iPhone6" />
+
+        <TextView
+            style="@style/text"
+            android:text="iPhone6 Plus" />
+
+        <TextView
+            style="@style/text"
+            android:text="iPhone7 128G" />
+        <TextView
+            style="@style/text"
+            android:text="iPhone7 Plus 64G" />
+
+        <TextView
+            style="@style/text"
+            android:text="iPhone8 联通合约机" />
+        <TextView
+            style="@style/text"
+            android:text="iPhone8 电信合约机" />
+
+        <TextView
+            style="@style/text"
+            android:text="iPhone8 周年版" />
+        <TextView
+            style="@style/text"
+            android:text="iPhone8 土豪金 128G" />
+
+
+    </com.zfw.flowlayout.FlowLayout>
+
+</LinearLayout>
