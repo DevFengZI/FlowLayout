@@ -1,2 +1,2 @@
 # FlowLayout
-![image](file:///Users/steve/Downloads/BikeTour.jpg)
+![效果图](https://github.com/zengfw/FlowLayout/blob/master/image/demo.png)
